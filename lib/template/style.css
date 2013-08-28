@@ -1,0 +1,22 @@
+body, div, img {
+	margin: 0;
+	padding: 0;
+}
+
+.spritemov{
+	position: relative;
+}
+
+.spritemov img, .spritemov .sprites{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.s{
+	display: none;
+	position: absolute;
+}
+
+{{spriteCss}}
+{{frameCss}}
