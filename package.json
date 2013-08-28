@@ -1,0 +1,15 @@
+{
+  "name": "Text Dance",
+  "version": "0.0.1",
+  "description": "Convert a video to a frame difference sprite based animated... or how to not use the DOM.",
+  "main": "index.js",
+  "author": "tim.sebastian@gmail.com",
+  "license": "BSD",
+  "dependencies": {
+    "canvas": "~1.0.4",
+    "node-spritesheet": "git://github.com/timse/node-spritesheet.git",
+    "async": "~0.2.9",
+    "colors": "~0.6.1",
+    "graceful-fs": "~2.0.0"
+  }
+}
